@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/file/:fileId", "destination": "/api/file.js?fileId=:fileId" }
+  ]
+}
